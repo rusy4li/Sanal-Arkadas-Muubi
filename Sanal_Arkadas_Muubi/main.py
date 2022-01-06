@@ -28,7 +28,7 @@ def help():
     except ValueError:
         print(">>> Uygun bir sayı girin lütfen! [1],[2],[3]")
     if sayi == 1:
-        print(">>> Sanal Arkadaş Muubi 2021 yılları arasında yapılmaya başlanıp 2022:01:06 tarihinde yayınlanan bir Yazılım Ürünüdür!")
+        print(">>> Sanal Arkadaş Muubi 2021 yılları arasında yapılmaya başlanıp 2022:01:07 tarihinde yayınlanan bir Yazılım Ürünüdür!")
         print(">>> Amacı insanlarla sohbet etmekdir!")
         print(">>> Hata ve görüşlerinizi belirtmek isterseniz")
         print(">>> Adres: https://github.com/rusy4li")
