@@ -1,12 +1,12 @@
 # Sanal-Arkadas-Muubi
  >>> Sanal Arkadaş Muubi
 
--> Sanal Arkadaş Muubi Hakkında
+>> Sanal Arkadaş Muubi Hakkında
 - Sanal Arkadaş Muubi 2021 yılları arasında yapılmaya başlanıp 2022:01:07 tarihinde yayınlanan bir Yazılım Ürünüdür!
 - Amacı insanlarla sohbet etmekdir!
 
 -> Muubiyi kullanma Hakkında
-- Muubi genelde çok konuşsada sanada bazen konuşman için hak tanıyacaktır
+- Muubi genelde çok konuşsada sana da bazen konuşman için hak tanıyacaktır
 - O anlarda -> gibi bir işaret ekranda belirecek ve senden genellikle evet veya hayır veyada bir konu hakkındaki fikrini soracaktır
 
 -> Setup veya Unninstal dosyası Hakkında
